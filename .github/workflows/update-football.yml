@@ -3,7 +3,7 @@ name: Update Football Data
 on:
   schedule:
     # Every 2 minutes, intentionally offset from :00.
-    - cron: "2,4,6,8,10,12 * * * *"
+    - cron: "3,13,23,33,43,53 * * * *"
 
   workflow_dispatch:
 
