@@ -3,11 +3,20 @@ import os
 import sys
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.parse import urlencode
 
 
-API_URL = "https://api.football-data.org/v4/matches"
+today = datetime.now(timezone.utc).date()
+
+params = urlencode({
+    "dateFrom": today.isoformat(),
+    "dateTo": (today + timedelta(days=15)).isoformat(),
+})
+
+API_URL = f"https://api.football-data.org/v4/matches?{params}"
+
 TOKEN = os.environ.get("FOOTBALL_DATA_TOKEN")
 
 if not TOKEN:
