@@ -1,20 +1,23 @@
 # Football Data
 
-Drop-in public GitHub repository for periodically fetching football data.
+Periodically fetching football data with github actions bot.
 
 ## Required setup
 
-1. this repository is PUBLIC.
-2. `main` as the default branch.
-3. free `FOOTBALL_DATA_TOKEN` use to pull
-5. A cron workflow is running under github action
-7. data is populated under `data/matches.json`
+No setup required
 
-anysystem can later read:
+## How system work
+
+1. can run cron workflow under github action
+2. `FOOTBALL_DATA_TOKEN` use to pull 10 days matches data
+3. The workflow updates approximately every 10 minutes.
+4. data will automatically populated under `data/matches.json`
+
+# How to use
+
+Just read:
 
 `https://raw.githubusercontent.com/mahbub-java/football-data-starter/main/data/matches.json`
 
-The workflow updates approximately every 10 minutes.
-
-Important:
+# Important:
 - free plan may provide delayed scores rather than true real-time scores.
