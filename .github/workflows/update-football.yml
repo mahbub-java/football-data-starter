@@ -1,0 +1,54 @@
+name: Update Football Data
+
+on:
+  schedule:
+    # Every 2 minutes, intentionally offset from :00.
+    - cron: "2,4,6,8,10,12 * * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: football-data-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch football matches
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: |
+          python scripts/fetch_matches.py data/matches.json
+
+      - name: Publish updated data
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/matches.json
+
+          if git diff --cached --quiet; then
+            echo "No football data changed."
+            exit 0
+          fi
+
+          git commit -m "Update football data"
+          git push origin "${GITHUB_REF_NAME}"
