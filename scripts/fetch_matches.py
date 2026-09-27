@@ -12,7 +12,7 @@ today = datetime.now(timezone.utc).date()
 
 params = urlencode({
     "dateFrom": today.isoformat(),
-    "dateTo": (today + timedelta(days=15)).isoformat(),
+    "dateTo": (today + timedelta(days=9)).isoformat(),
 })
 
 API_URL = f"https://api.football-data.org/v4/matches?{params}"
