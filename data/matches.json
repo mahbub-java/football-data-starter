@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T22:32:46.302872+00:00",
+  "updatedAt": "2026-09-28T01:07:15.234801+00:00",
   "source": "football-data.org",
   "rateLimit": {
     "remainingThisMinute": "9"
@@ -47,7 +47,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-09-27T00:20:33Z"
+      "lastUpdated": "2026-09-28T00:20:32Z"
     },
     {
       "id": 554940,
@@ -90,7 +90,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-09-27T01:32:02Z"
+      "lastUpdated": "2026-09-28T00:20:32Z"
     }
   ],
   "matches": [
@@ -135,7 +135,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-09-27T00:20:33Z"
+      "lastUpdated": "2026-09-28T00:20:32Z"
     },
     {
       "id": 554940,
@@ -178,7 +178,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-09-27T01:32:02Z"
+      "lastUpdated": "2026-09-28T00:20:32Z"
     }
   ]
 }
