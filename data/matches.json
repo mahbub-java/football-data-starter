@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T23:25:28.793147+00:00",
+  "updatedAt": "2026-10-21T01:52:22.998436+00:00",
   "source": "football-data.org",
   "rateLimit": {
     "remainingThisMinute": "9"
   },
-  "count": 121,
+  "count": 117,
   "important": [
     {
       "id": 576424,
@@ -133,7 +133,7 @@
         }
       },
       "priority": 780,
-      "lastUpdated": "2026-10-20T01:32:03Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 564723,
@@ -176,7 +176,7 @@
         }
       },
       "priority": 776,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 560614,
@@ -219,7 +219,7 @@
         }
       },
       "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560616,
@@ -262,50 +262,7 @@
         }
       },
       "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 560612,
-      "competition": {
-        "id": 2021,
-        "code": "PL",
-        "name": "Premier League",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 8,
-      "home": {
-        "id": 64,
-        "name": "Liverpool FC",
-        "shortName": "Liverpool",
-        "tla": "LIV",
-        "crest": "https://crests.football-data.org/64.png"
-      },
-      "away": {
-        "id": 397,
-        "name": "Brighton & Hove Albion FC",
-        "shortName": "Brighton Hove",
-        "tla": "BHA",
-        "crest": "https://crests.football-data.org/397.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560615,
@@ -348,7 +305,50 @@
         }
       },
       "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
+    },
+    {
+      "id": 560612,
+      "competition": {
+        "id": 2021,
+        "code": "PL",
+        "name": "Premier League",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "utcDate": "2026-10-25T14:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 8,
+      "home": {
+        "id": 64,
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "tla": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "away": {
+        "id": 397,
+        "name": "Brighton & Hove Albion FC",
+        "shortName": "Brighton Hove",
+        "tla": "BHA",
+        "crest": "https://crests.football-data.org/397.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 745,
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 564724,
@@ -391,7 +391,7 @@
         }
       },
       "priority": 741,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558564,
@@ -434,7 +434,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     }
   ],
   "matches": [
@@ -565,7 +565,7 @@
         }
       },
       "priority": 780,
-      "lastUpdated": "2026-10-20T01:32:03Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 564723,
@@ -608,7 +608,7 @@
         }
       },
       "priority": 776,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 560614,
@@ -651,7 +651,7 @@
         }
       },
       "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560616,
@@ -694,50 +694,7 @@
         }
       },
       "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 560612,
-      "competition": {
-        "id": 2021,
-        "code": "PL",
-        "name": "Premier League",
-        "emblem": "https://crests.football-data.org/PL.png"
-      },
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 8,
-      "home": {
-        "id": 64,
-        "name": "Liverpool FC",
-        "shortName": "Liverpool",
-        "tla": "LIV",
-        "crest": "https://crests.football-data.org/64.png"
-      },
-      "away": {
-        "id": 397,
-        "name": "Brighton & Hove Albion FC",
-        "shortName": "Brighton Hove",
-        "tla": "BHA",
-        "crest": "https://crests.football-data.org/397.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560615,
@@ -780,7 +737,50 @@
         }
       },
       "priority": 745,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
+    },
+    {
+      "id": 560612,
+      "competition": {
+        "id": 2021,
+        "code": "PL",
+        "name": "Premier League",
+        "emblem": "https://crests.football-data.org/PL.png"
+      },
+      "utcDate": "2026-10-25T14:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 8,
+      "home": {
+        "id": 64,
+        "name": "Liverpool FC",
+        "shortName": "Liverpool",
+        "tla": "LIV",
+        "crest": "https://crests.football-data.org/64.png"
+      },
+      "away": {
+        "id": 397,
+        "name": "Brighton & Hove Albion FC",
+        "shortName": "Brighton Hove",
+        "tla": "BHA",
+        "crest": "https://crests.football-data.org/397.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 745,
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 564724,
@@ -823,7 +823,7 @@
         }
       },
       "priority": 741,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558564,
@@ -866,7 +866,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565837,
@@ -909,7 +909,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558563,
@@ -952,7 +952,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565836,
@@ -995,7 +995,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558566,
@@ -1038,7 +1038,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558559,
@@ -1081,7 +1081,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558549,
@@ -1124,7 +1124,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558550,
@@ -1167,7 +1167,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558552,
@@ -1210,7 +1210,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558554,
@@ -1253,7 +1253,7 @@
         }
       },
       "priority": 739,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 575372,
@@ -1296,7 +1296,7 @@
         }
       },
       "priority": 735,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T01:32:00Z"
     },
     {
       "id": 559648,
@@ -1339,7 +1339,7 @@
         }
       },
       "priority": 735,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 560620,
@@ -1382,7 +1382,7 @@
         }
       },
       "priority": 710,
-      "lastUpdated": "2026-10-20T01:32:01Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560618,
@@ -1425,7 +1425,7 @@
         }
       },
       "priority": 710,
-      "lastUpdated": "2026-10-20T01:32:03Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560613,
@@ -1468,7 +1468,7 @@
         }
       },
       "priority": 710,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560619,
@@ -1511,7 +1511,7 @@
         }
       },
       "priority": 710,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 560621,
@@ -1554,7 +1554,7 @@
         }
       },
       "priority": 710,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:29Z"
     },
     {
       "id": 564685,
@@ -1597,7 +1597,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564719,
@@ -1640,7 +1640,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564718,
@@ -1683,7 +1683,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T01:32:02Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564727,
@@ -1726,7 +1726,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T01:32:03Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564722,
@@ -1769,7 +1769,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564720,
@@ -1812,7 +1812,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564725,
@@ -1855,7 +1855,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564726,
@@ -1898,7 +1898,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 564721,
@@ -1941,7 +1941,7 @@
         }
       },
       "priority": 706,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565833,
@@ -1984,7 +1984,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558567,
@@ -2027,7 +2027,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T01:32:01Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558561,
@@ -2070,7 +2070,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T01:32:02Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558560,
@@ -2113,93 +2113,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T01:32:02Z"
-    },
-    {
-      "id": 565831,
-      "competition": {
-        "id": 2002,
-        "code": "BL1",
-        "name": "Bundesliga",
-        "emblem": "https://crests.football-data.org/BL1.png"
-      },
-      "utcDate": "2026-10-24T13:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 7,
-      "home": {
-        "id": 1,
-        "name": "1. FC Köln",
-        "shortName": "1. FC Köln",
-        "tla": "KOE",
-        "crest": "https://crests.football-data.org/1.png"
-      },
-      "away": {
-        "id": 6,
-        "name": "FC Schalke 04",
-        "shortName": "Schalke",
-        "tla": "S04",
-        "crest": "https://crests.football-data.org/6.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
-    },
-    {
-      "id": 565838,
-      "competition": {
-        "id": 2002,
-        "code": "BL1",
-        "name": "Bundesliga",
-        "emblem": "https://crests.football-data.org/BL1.png"
-      },
-      "utcDate": "2026-10-24T13:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 7,
-      "home": {
-        "id": 16,
-        "name": "FC Augsburg",
-        "shortName": "Augsburg",
-        "tla": "FCA",
-        "crest": "https://crests.football-data.org/16.png"
-      },
-      "away": {
-        "id": 28,
-        "name": "1. FC Union Berlin",
-        "shortName": "Union Berlin",
-        "tla": "UNB",
-        "crest": "https://crests.football-data.org/28.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565834,
@@ -2242,7 +2156,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565830,
@@ -2285,7 +2199,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565832,
@@ -2328,7 +2242,93 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 565838,
+      "competition": {
+        "id": 2002,
+        "code": "BL1",
+        "name": "Bundesliga",
+        "emblem": "https://crests.football-data.org/BL1.png"
+      },
+      "utcDate": "2026-10-24T13:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 7,
+      "home": {
+        "id": 16,
+        "name": "FC Augsburg",
+        "shortName": "Augsburg",
+        "tla": "FCA",
+        "crest": "https://crests.football-data.org/16.png"
+      },
+      "away": {
+        "id": 28,
+        "name": "1. FC Union Berlin",
+        "shortName": "Union Berlin",
+        "tla": "UNB",
+        "crest": "https://crests.football-data.org/28.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 704,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 565831,
+      "competition": {
+        "id": 2002,
+        "code": "BL1",
+        "name": "Bundesliga",
+        "emblem": "https://crests.football-data.org/BL1.png"
+      },
+      "utcDate": "2026-10-24T13:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 7,
+      "home": {
+        "id": 1,
+        "name": "1. FC Köln",
+        "shortName": "1. FC Köln",
+        "tla": "KOE",
+        "crest": "https://crests.football-data.org/1.png"
+      },
+      "away": {
+        "id": 6,
+        "name": "FC Schalke 04",
+        "shortName": "Schalke",
+        "tla": "S04",
+        "crest": "https://crests.football-data.org/6.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 704,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558565,
@@ -2371,50 +2371,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T01:32:03Z"
-    },
-    {
-      "id": 558562,
-      "competition": {
-        "id": 2019,
-        "code": "SA",
-        "name": "Serie A",
-        "emblem": "https://crests.football-data.org/c111.png"
-      },
-      "utcDate": "2026-10-25T14:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 8,
-      "home": {
-        "id": 102,
-        "name": "Atalanta BC",
-        "shortName": "Atalanta",
-        "tla": "ATA",
-        "crest": "https://crests.football-data.org/102.png"
-      },
-      "away": {
-        "id": 470,
-        "name": "Frosinone Calcio",
-        "shortName": "Frosinone",
-        "tla": "FRO",
-        "crest": "https://crests.football-data.org/470.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 704,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558568,
@@ -2457,7 +2414,50 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 558562,
+      "competition": {
+        "id": 2019,
+        "code": "SA",
+        "name": "Serie A",
+        "emblem": "https://crests.football-data.org/c111.png"
+      },
+      "utcDate": "2026-10-25T14:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 8,
+      "home": {
+        "id": 102,
+        "name": "Atalanta BC",
+        "shortName": "Atalanta",
+        "tla": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "away": {
+        "id": 470,
+        "name": "Frosinone Calcio",
+        "shortName": "Frosinone",
+        "tla": "FRO",
+        "crest": "https://crests.football-data.org/470.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 704,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 565835,
@@ -2500,7 +2500,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558556,
@@ -2543,7 +2543,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T01:32:06Z"
     },
     {
       "id": 558557,
@@ -2586,7 +2586,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T01:32:06Z"
     },
     {
       "id": 558555,
@@ -2629,7 +2629,7 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T01:32:06Z"
     },
     {
       "id": 558553,
@@ -2672,7 +2672,93 @@
         }
       },
       "priority": 704,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 558558,
+      "competition": {
+        "id": 2019,
+        "code": "SA",
+        "name": "Serie A",
+        "emblem": "https://crests.football-data.org/c111.png"
+      },
+      "utcDate": "2026-10-29T17:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 9,
+      "home": {
+        "id": 470,
+        "name": "Frosinone Calcio",
+        "shortName": "Frosinone",
+        "tla": "FRO",
+        "crest": "https://crests.football-data.org/470.png"
+      },
+      "away": {
+        "id": 5890,
+        "name": "US Lecce",
+        "shortName": "Lecce",
+        "tla": "USL",
+        "crest": "https://crests.football-data.org/5890.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 704,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 558551,
+      "competition": {
+        "id": 2019,
+        "code": "SA",
+        "name": "Serie A",
+        "emblem": "https://crests.football-data.org/c111.png"
+      },
+      "utcDate": "2026-10-29T19:45:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 9,
+      "home": {
+        "id": 99,
+        "name": "ACF Fiorentina",
+        "shortName": "Fiorentina",
+        "tla": "FIO",
+        "crest": "https://crests.football-data.org/99.png"
+      },
+      "away": {
+        "id": 102,
+        "name": "Atalanta BC",
+        "shortName": "Atalanta",
+        "tla": "ATA",
+        "crest": "https://crests.football-data.org/102.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 704,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 575368,
@@ -2715,50 +2801,7 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:28Z"
-    },
-    {
-      "id": 575370,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-21T19:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 86,
-        "name": "Real Madrid CF",
-        "shortName": "Real Madrid",
-        "tla": "RMA",
-        "crest": "https://crests.football-data.org/86.png"
-      },
-      "away": {
-        "id": 721,
-        "name": "RB Leipzig",
-        "shortName": "RB Leipzig",
-        "tla": "RBL",
-        "crest": "https://crests.football-data.org/721.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T01:32:00Z"
     },
     {
       "id": 575371,
@@ -2801,7 +2844,50 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T01:32:00Z"
+    },
+    {
+      "id": 575370,
+      "competition": {
+        "id": 2001,
+        "code": "CL",
+        "name": "UEFA Champions League",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "utcDate": "2026-10-21T19:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "LEAGUE_STAGE",
+      "matchday": 3,
+      "home": {
+        "id": 86,
+        "name": "Real Madrid CF",
+        "shortName": "Real Madrid",
+        "tla": "RMA",
+        "crest": "https://crests.football-data.org/86.png"
+      },
+      "away": {
+        "id": 721,
+        "name": "RB Leipzig",
+        "shortName": "RB Leipzig",
+        "tla": "RBL",
+        "crest": "https://crests.football-data.org/721.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 700,
+      "lastUpdated": "2026-10-21T01:32:00Z"
     },
     {
       "id": 559654,
@@ -2844,7 +2930,7 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 559655,
@@ -2887,7 +2973,7 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 559652,
@@ -2930,7 +3016,7 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 559650,
@@ -2973,136 +3059,7 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 559651,
-      "competition": {
-        "id": 2015,
-        "code": "FL1",
-        "name": "Ligue 1",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "utcDate": "2026-10-25T16:15:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 8,
-      "home": {
-        "id": 529,
-        "name": "Stade Rennais FC 1901",
-        "shortName": "Stade Rennais",
-        "tla": "REN",
-        "crest": "https://crests.football-data.org/529.png"
-      },
-      "away": {
-        "id": 576,
-        "name": "RC Strasbourg Alsace",
-        "shortName": "Strasbourg",
-        "tla": "RC ",
-        "crest": "https://crests.football-data.org/576.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 559653,
-      "competition": {
-        "id": 2015,
-        "code": "FL1",
-        "name": "Ligue 1",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "utcDate": "2026-10-25T16:15:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 8,
-      "home": {
-        "id": 532,
-        "name": "Angers SCO",
-        "shortName": "Angers SCO",
-        "tla": "ANG",
-        "crest": "https://crests.football-data.org/532.png"
-      },
-      "away": {
-        "id": 525,
-        "name": "FC Lorient",
-        "shortName": "Lorient",
-        "tla": "FCL",
-        "crest": "https://crests.football-data.org/525.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 559649,
-      "competition": {
-        "id": 2015,
-        "code": "FL1",
-        "name": "Ligue 1",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "utcDate": "2026-10-25T16:15:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 8,
-      "home": {
-        "id": 516,
-        "name": "Olympique de Marseille",
-        "shortName": "Marseille",
-        "tla": "MAR",
-        "crest": "https://crests.football-data.org/516.png"
-      },
-      "away": {
-        "id": 533,
-        "name": "Le Havre AC",
-        "shortName": "Le Havre",
-        "tla": "HAC",
-        "crest": "https://crests.football-data.org/533.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 559656,
@@ -3145,7 +3102,136 @@
         }
       },
       "priority": 700,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 559653,
+      "competition": {
+        "id": 2015,
+        "code": "FL1",
+        "name": "Ligue 1",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "utcDate": "2026-10-25T16:15:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 8,
+      "home": {
+        "id": 532,
+        "name": "Angers SCO",
+        "shortName": "Angers SCO",
+        "tla": "ANG",
+        "crest": "https://crests.football-data.org/532.png"
+      },
+      "away": {
+        "id": 525,
+        "name": "FC Lorient",
+        "shortName": "Lorient",
+        "tla": "FCL",
+        "crest": "https://crests.football-data.org/525.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 700,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 559649,
+      "competition": {
+        "id": 2015,
+        "code": "FL1",
+        "name": "Ligue 1",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "utcDate": "2026-10-25T16:15:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 8,
+      "home": {
+        "id": 516,
+        "name": "Olympique de Marseille",
+        "shortName": "Marseille",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/516.png"
+      },
+      "away": {
+        "id": 533,
+        "name": "Le Havre AC",
+        "shortName": "Le Havre",
+        "tla": "HAC",
+        "crest": "https://crests.football-data.org/533.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 700,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 559651,
+      "competition": {
+        "id": 2015,
+        "code": "FL1",
+        "name": "Ligue 1",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "utcDate": "2026-10-25T16:15:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 8,
+      "home": {
+        "id": 529,
+        "name": "Stade Rennais FC 1901",
+        "shortName": "Stade Rennais",
+        "tla": "REN",
+        "crest": "https://crests.football-data.org/529.png"
+      },
+      "away": {
+        "id": 576,
+        "name": "RC Strasbourg Alsace",
+        "shortName": "Strasbourg",
+        "tla": "RC ",
+        "crest": "https://crests.football-data.org/576.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 700,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567329,
@@ -3188,7 +3274,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567337,
@@ -3231,7 +3317,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567333,
@@ -3274,7 +3360,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T01:32:03Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567335,
@@ -3317,7 +3403,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567336,
@@ -3360,7 +3446,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567334,
@@ -3403,7 +3489,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567330,
@@ -3446,7 +3532,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567332,
@@ -3489,7 +3575,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 567331,
@@ -3532,7 +3618,7 @@
         }
       },
       "priority": 680,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558863,
@@ -3575,7 +3661,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558862,
@@ -3618,7 +3704,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558861,
@@ -3661,7 +3747,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558860,
@@ -3704,7 +3790,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558859,
@@ -3747,50 +3833,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
-    },
-    {
-      "id": 558857,
-      "competition": {
-        "id": 2003,
-        "code": "DED",
-        "name": "Eredivisie",
-        "emblem": "https://crests.football-data.org/ED.png"
-      },
-      "utcDate": "2026-10-25T13:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 10,
-      "home": {
-        "id": 1915,
-        "name": "NEC",
-        "shortName": "NEC",
-        "tla": "NEC",
-        "crest": "https://crests.football-data.org/1915.png"
-      },
-      "away": {
-        "id": 677,
-        "name": "FC Groningen",
-        "shortName": "Groningen",
-        "tla": "GRO",
-        "crest": "https://crests.football-data.org/677.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558858,
@@ -3833,7 +3876,50 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 558857,
+      "competition": {
+        "id": 2003,
+        "code": "DED",
+        "name": "Eredivisie",
+        "emblem": "https://crests.football-data.org/ED.png"
+      },
+      "utcDate": "2026-10-25T13:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 10,
+      "home": {
+        "id": 1915,
+        "name": "NEC",
+        "shortName": "NEC",
+        "tla": "NEC",
+        "crest": "https://crests.football-data.org/1915.png"
+      },
+      "away": {
+        "id": 677,
+        "name": "FC Groningen",
+        "shortName": "Groningen",
+        "tla": "GRO",
+        "crest": "https://crests.football-data.org/677.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 675,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558856,
@@ -3876,7 +3962,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 558855,
@@ -3919,7 +4005,7 @@
         }
       },
       "priority": 675,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 575369,
@@ -3962,136 +4048,7 @@
         }
       },
       "priority": 665,
-      "lastUpdated": "2026-10-20T00:20:28Z"
-    },
-    {
-      "id": 575376,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-21T19:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 90,
-        "name": "Real Betis Balompié",
-        "shortName": "Real Betis",
-        "tla": "BET",
-        "crest": "https://crests.football-data.org/90.png"
-      },
-      "away": {
-        "id": 675,
-        "name": "Feyenoord Rotterdam",
-        "shortName": "Feyenoord",
-        "tla": "FEY",
-        "crest": "https://crests.football-data.org/675.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 665,
-      "lastUpdated": "2026-10-20T00:20:28Z"
-    },
-    {
-      "id": 575374,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-21T19:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 58,
-        "name": "Aston Villa FC",
-        "shortName": "Aston Villa",
-        "tla": "AVL",
-        "crest": "https://crests.football-data.org/58.png"
-      },
-      "away": {
-        "id": 5720,
-        "name": "Viking FK",
-        "shortName": "Viking",
-        "tla": "VIK",
-        "crest": "https://crests.football-data.org/5720.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 665,
-      "lastUpdated": "2026-10-20T00:20:28Z"
-    },
-    {
-      "id": 575375,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-21T19:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 498,
-        "name": "Sporting Clube de Portugal",
-        "shortName": "Sporting CP",
-        "tla": "SPO",
-        "crest": "https://crests.football-data.org/498.png"
-      },
-      "away": {
-        "id": 2016,
-        "name": "LASK Linz",
-        "shortName": "LASK",
-        "tla": "LIN",
-        "crest": "https://crests.football-data.org/2016.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 665,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T00:20:27Z"
     },
     {
       "id": 575373,
@@ -4134,7 +4091,136 @@
         }
       },
       "priority": 665,
-      "lastUpdated": "2026-10-20T00:20:28Z"
+      "lastUpdated": "2026-10-21T01:32:00Z"
+    },
+    {
+      "id": 575375,
+      "competition": {
+        "id": 2001,
+        "code": "CL",
+        "name": "UEFA Champions League",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "utcDate": "2026-10-21T19:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "LEAGUE_STAGE",
+      "matchday": 3,
+      "home": {
+        "id": 498,
+        "name": "Sporting Clube de Portugal",
+        "shortName": "Sporting CP",
+        "tla": "SPO",
+        "crest": "https://crests.football-data.org/498.png"
+      },
+      "away": {
+        "id": 2016,
+        "name": "LASK Linz",
+        "shortName": "LASK",
+        "tla": "LIN",
+        "crest": "https://crests.football-data.org/2016.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 665,
+      "lastUpdated": "2026-10-21T01:32:00Z"
+    },
+    {
+      "id": 575376,
+      "competition": {
+        "id": 2001,
+        "code": "CL",
+        "name": "UEFA Champions League",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "utcDate": "2026-10-21T19:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "LEAGUE_STAGE",
+      "matchday": 3,
+      "home": {
+        "id": 90,
+        "name": "Real Betis Balompié",
+        "shortName": "Real Betis",
+        "tla": "BET",
+        "crest": "https://crests.football-data.org/90.png"
+      },
+      "away": {
+        "id": 675,
+        "name": "Feyenoord Rotterdam",
+        "shortName": "Feyenoord",
+        "tla": "FEY",
+        "crest": "https://crests.football-data.org/675.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 665,
+      "lastUpdated": "2026-10-21T01:32:00Z"
+    },
+    {
+      "id": 575374,
+      "competition": {
+        "id": 2001,
+        "code": "CL",
+        "name": "UEFA Champions League",
+        "emblem": "https://crests.football-data.org/CL.png"
+      },
+      "utcDate": "2026-10-21T19:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "LEAGUE_STAGE",
+      "matchday": 3,
+      "home": {
+        "id": 58,
+        "name": "Aston Villa FC",
+        "shortName": "Aston Villa",
+        "tla": "AVL",
+        "crest": "https://crests.football-data.org/58.png"
+      },
+      "away": {
+        "id": 5720,
+        "name": "Viking FK",
+        "shortName": "Viking",
+        "tla": "VIK",
+        "crest": "https://crests.football-data.org/5720.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 665,
+      "lastUpdated": "2026-10-21T01:32:00Z"
     },
     {
       "id": 561894,
@@ -4177,7 +4263,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 555052,
@@ -4220,7 +4306,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 561904,
@@ -4263,50 +4349,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 561901,
-      "competition": {
-        "id": 2016,
-        "code": "ELC",
-        "name": "Championship",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "utcDate": "2026-10-24T11:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 12,
-      "home": {
-        "id": 348,
-        "name": "Charlton Athletic FC",
-        "shortName": "Charlton",
-        "tla": "CHA",
-        "crest": "https://crests.football-data.org/348.png"
-      },
-      "away": {
-        "id": 68,
-        "name": "Norwich City FC",
-        "shortName": "Norwich",
-        "tla": "NOR",
-        "crest": "https://crests.football-data.org/68.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 561895,
@@ -4349,35 +4392,35 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
-      "id": 561896,
+      "id": 561901,
       "competition": {
         "id": 2016,
         "code": "ELC",
         "name": "Championship",
         "emblem": "https://crests.football-data.org/ELC.png"
       },
-      "utcDate": "2026-10-24T14:00:00Z",
+      "utcDate": "2026-10-24T11:30:00Z",
       "status": "TIMED",
       "minute": null,
       "injuryTime": null,
       "stage": "REGULAR_SEASON",
       "matchday": 12,
       "home": {
-        "id": 69,
-        "name": "Queens Park Rangers FC",
-        "shortName": "QPR",
-        "tla": "QPR",
-        "crest": "https://crests.football-data.org/69.png"
+        "id": 348,
+        "name": "Charlton Athletic FC",
+        "shortName": "Charlton",
+        "tla": "CHA",
+        "crest": "https://crests.football-data.org/348.png"
       },
       "away": {
-        "id": 72,
-        "name": "Swansea City AFC",
-        "shortName": "Swansea",
-        "tla": "SWA",
-        "crest": "https://crests.football-data.org/72.png"
+        "id": 68,
+        "name": "Norwich City FC",
+        "shortName": "Norwich",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/68.png"
       },
       "score": {
         "winner": null,
@@ -4392,50 +4435,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
-    },
-    {
-      "id": 561902,
-      "competition": {
-        "id": 2016,
-        "code": "ELC",
-        "name": "Championship",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "utcDate": "2026-10-24T14:00:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 12,
-      "home": {
-        "id": 59,
-        "name": "Blackburn Rovers FC",
-        "shortName": "Blackburn",
-        "tla": "BLA",
-        "crest": "https://crests.football-data.org/59.png"
-      },
-      "away": {
-        "id": 404,
-        "name": "Wrexham AFC",
-        "shortName": "Wrexham",
-        "tla": "WRE",
-        "crest": "https://crests.football-data.org/404.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 561898,
@@ -4478,7 +4478,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 561900,
@@ -4521,10 +4521,10 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
-      "id": 561897,
+      "id": 561896,
       "competition": {
         "id": 2016,
         "code": "ELC",
@@ -4538,18 +4538,18 @@
       "stage": "REGULAR_SEASON",
       "matchday": 12,
       "home": {
-        "id": 70,
-        "name": "Stoke City FC",
-        "shortName": "Stoke",
-        "tla": "STK",
-        "crest": "https://crests.football-data.org/70.png"
+        "id": 69,
+        "name": "Queens Park Rangers FC",
+        "shortName": "QPR",
+        "tla": "QPR",
+        "crest": "https://crests.football-data.org/69.png"
       },
       "away": {
-        "id": 387,
-        "name": "Bristol City FC",
-        "shortName": "Bristol City",
-        "tla": "BRI",
-        "crest": "https://crests.football-data.org/387.png"
+        "id": 72,
+        "name": "Swansea City AFC",
+        "shortName": "Swansea",
+        "tla": "SWA",
+        "crest": "https://crests.football-data.org/72.png"
       },
       "score": {
         "winner": null,
@@ -4564,7 +4564,50 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
+    },
+    {
+      "id": 561902,
+      "competition": {
+        "id": 2016,
+        "code": "ELC",
+        "name": "Championship",
+        "emblem": "https://crests.football-data.org/ELC.png"
+      },
+      "utcDate": "2026-10-24T14:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 12,
+      "home": {
+        "id": 59,
+        "name": "Blackburn Rovers FC",
+        "shortName": "Blackburn",
+        "tla": "BLA",
+        "crest": "https://crests.football-data.org/59.png"
+      },
+      "away": {
+        "id": 404,
+        "name": "Wrexham AFC",
+        "shortName": "Wrexham",
+        "tla": "WRE",
+        "crest": "https://crests.football-data.org/404.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 561893,
@@ -4607,7 +4650,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 561903,
@@ -4650,7 +4693,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 561899,
@@ -4693,35 +4736,35 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T00:20:29Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
-      "id": 555059,
+      "id": 561897,
       "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
+        "id": 2016,
+        "code": "ELC",
+        "name": "Championship",
+        "emblem": "https://crests.football-data.org/ELC.png"
       },
-      "utcDate": "2026-10-24T19:30:00Z",
+      "utcDate": "2026-10-24T14:00:00Z",
       "status": "TIMED",
       "minute": null,
       "injuryTime": null,
       "stage": "REGULAR_SEASON",
-      "matchday": 32,
+      "matchday": 12,
       "home": {
-        "id": 1782,
-        "name": "EC Vitória",
-        "shortName": "Vitória",
-        "tla": "VIT",
-        "crest": "https://crests.football-data.org/1782.png"
+        "id": 70,
+        "name": "Stoke City FC",
+        "shortName": "Stoke",
+        "tla": "STK",
+        "crest": "https://crests.football-data.org/70.png"
       },
       "away": {
-        "id": 1768,
-        "name": "CA Paranaense",
-        "shortName": "Paranaense",
-        "tla": "CAP",
-        "crest": "https://crests.football-data.org/1768.png"
+        "id": 387,
+        "name": "Bristol City FC",
+        "shortName": "Bristol City",
+        "tla": "BRI",
+        "crest": "https://crests.football-data.org/387.png"
       },
       "score": {
         "winner": null,
@@ -4736,50 +4779,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
-    },
-    {
-      "id": 555055,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-10-24T19:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 32,
-      "home": {
-        "id": 4364,
-        "name": "Mirassol FC",
-        "shortName": "Mirassol",
-        "tla": "MIR",
-        "crest": "https://crests.football-data.org/4364.png"
-      },
-      "away": {
-        "id": 1776,
-        "name": "São Paulo FC",
-        "shortName": "São Paulo",
-        "tla": "PAU",
-        "crest": "https://crests.football-data.org/1776.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-20T15:20:35Z"
     },
     {
       "id": 555054,
@@ -4822,7 +4822,93 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555059,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-24T19:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 32,
+      "home": {
+        "id": 1782,
+        "name": "EC Vitória",
+        "shortName": "Vitória",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/1782.png"
+      },
+      "away": {
+        "id": 1768,
+        "name": "CA Paranaense",
+        "shortName": "Paranaense",
+        "tla": "CAP",
+        "crest": "https://crests.football-data.org/1768.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555055,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-24T19:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 32,
+      "home": {
+        "id": 4364,
+        "name": "Mirassol FC",
+        "shortName": "Mirassol",
+        "tla": "MIR",
+        "crest": "https://crests.football-data.org/4364.png"
+      },
+      "away": {
+        "id": 1776,
+        "name": "São Paulo FC",
+        "shortName": "São Paulo",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/1776.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555058,
@@ -4865,7 +4951,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555056,
@@ -4908,7 +4994,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T01:32:04Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555050,
@@ -4951,7 +5037,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555057,
@@ -4994,7 +5080,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555051,
@@ -5037,7 +5123,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T01:32:05Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555053,
@@ -5080,93 +5166,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-20T01:32:05Z"
-    },
-    {
-      "id": 555065,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-10-28T22:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 33,
-      "home": {
-        "id": 1765,
-        "name": "Fluminense FC",
-        "shortName": "Fluminense",
-        "tla": "FLU",
-        "crest": "https://crests.football-data.org/1765.png"
-      },
-      "away": {
-        "id": 6684,
-        "name": "SC Internacional",
-        "shortName": "Internacional",
-        "tla": "SCI",
-        "crest": "https://crests.football-data.org/6684.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
-    },
-    {
-      "id": 555068,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-10-28T22:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 33,
-      "home": {
-        "id": 6685,
-        "name": "Santos FC",
-        "shortName": "Santos",
-        "tla": "SAN",
-        "crest": "https://crests.football-data.org/6685.png"
-      },
-      "away": {
-        "id": 1769,
-        "name": "SE Palmeiras",
-        "shortName": "Palmeiras",
-        "tla": "PAL",
-        "crest": "https://crests.football-data.org/1769.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
       "id": 555062,
@@ -5209,437 +5209,265 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-10-19T20:20:25Z"
+      "lastUpdated": "2026-10-21T00:20:28Z"
     },
     {
-      "id": 575367,
+      "id": 555065,
       "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
       },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 524,
-        "name": "Paris Saint-Germain FC",
-        "shortName": "PSG",
-        "tla": "PSG",
-        "crest": "https://crests.football-data.org/524.png"
-      },
-      "away": {
-        "id": 81,
-        "name": "FC Barcelona",
-        "shortName": "Barça",
-        "tla": "FCB",
-        "crest": "https://crests.football-data.org/81.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      },
-      "priority": 435,
-      "lastUpdated": "2026-10-20T22:25:01Z"
-    },
-    {
-      "id": 575359,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T16:45:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 10233,
-        "name": "Sabah FK",
-        "shortName": "Sabah FK",
-        "tla": "SAB",
-        "crest": "https://crests.football-data.org/10233.png"
-      },
-      "away": {
-        "id": 4,
-        "name": "Borussia Dortmund",
-        "shortName": "Dortmund",
-        "tla": "BVB",
-        "crest": "https://crests.football-data.org/4.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      },
-      "priority": 400,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575366,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 113,
-        "name": "SSC Napoli",
-        "shortName": "Napoli",
-        "tla": "NAP",
-        "crest": "https://crests.football-data.org/113.png"
-      },
-      "away": {
-        "id": 5721,
-        "name": "FK Bodø/Glimt",
-        "shortName": "Bodø/Glimt",
-        "tla": "FK",
-        "crest": "https://crests.football-data.org/5721.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 1
-        }
-      },
-      "priority": 400,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575362,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 10,
-        "name": "VfB Stuttgart",
-        "shortName": "Stuttgart",
-        "tla": "VFB",
-        "crest": "https://crests.football-data.org/10.png"
-      },
-      "away": {
-        "id": 78,
-        "name": "Club Atlético de Madrid",
-        "shortName": "Atleti",
-        "tla": "ATL",
-        "crest": "https://crests.football-data.org/78.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 0
-        }
-      },
-      "priority": 400,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575361,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 65,
-        "name": "Manchester City FC",
-        "shortName": "Man City",
-        "tla": "MCI",
-        "crest": "https://crests.football-data.org/65.png"
-      },
-      "away": {
-        "id": 1899,
-        "name": "PAE AEK",
-        "shortName": "PAE AEK",
-        "tla": "AEK",
-        "crest": "https://crests.football-data.org/1899.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 5,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      },
-      "priority": 400,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575363,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 64,
-        "name": "Liverpool FC",
-        "shortName": "Liverpool",
-        "tla": "LIV",
-        "crest": "https://crests.football-data.org/64.png"
-      },
-      "away": {
-        "id": 94,
-        "name": "Villarreal CF",
-        "shortName": "Villarreal",
-        "tla": "VIL",
-        "crest": "https://crests.football-data.org/94.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 2
-        }
-      },
-      "priority": 400,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575360,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T16:45:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 613,
-        "name": "Fenerbahçe SK",
-        "shortName": "Fenerbahçe",
-        "tla": "FEN",
-        "crest": "https://crests.football-data.org/613.png"
-      },
-      "away": {
-        "id": 930,
-        "name": "SK Slavia Praha",
-        "shortName": "Slavia Praha",
-        "tla": "SLP",
-        "crest": "https://crests.football-data.org/930.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 2,
-          "away": 2
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 1
-        }
-      },
-      "priority": 365,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575364,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 100,
-        "name": "AS Roma",
-        "shortName": "Roma",
-        "tla": "ROM",
-        "crest": "https://crests.football-data.org/100.png"
-      },
-      "away": {
-        "id": 7509,
-        "name": "ŠK Slovan Bratislava",
-        "shortName": "Sl. Bratislava",
-        "tla": "SBA",
-        "crest": "https://crests.football-data.org/7509.png"
-      },
-      "score": {
-        "winner": "HOME_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 4,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 2,
-          "away": 0
-        }
-      },
-      "priority": 365,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 575365,
-      "competition": {
-        "id": 2001,
-        "code": "CL",
-        "name": "UEFA Champions League",
-        "emblem": "https://crests.football-data.org/CL.png"
-      },
-      "utcDate": "2026-10-20T19:00:00Z",
-      "status": "FINISHED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "LEAGUE_STAGE",
-      "matchday": 3,
-      "home": {
-        "id": 503,
-        "name": "FC Porto",
-        "shortName": "Porto",
-        "tla": "FCP",
-        "crest": "https://crests.football-data.org/503.png"
-      },
-      "away": {
-        "id": 674,
-        "name": "PSV",
-        "shortName": "PSV",
-        "tla": "PSV",
-        "crest": "https://crests.football-data.org/674.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "priority": 365,
-      "lastUpdated": "2026-10-20T22:25:00Z"
-    },
-    {
-      "id": 561826,
-      "competition": {
-        "id": 2016,
-        "code": "ELC",
-        "name": "Championship",
-        "emblem": "https://crests.football-data.org/ELC.png"
-      },
-      "utcDate": "2026-10-20T18:45:00Z",
-      "status": "FINISHED",
+      "utcDate": "2026-10-28T22:30:00Z",
+      "status": "TIMED",
       "minute": null,
       "injuryTime": null,
       "stage": "REGULAR_SEASON",
-      "matchday": 6,
+      "matchday": 33,
       "home": {
-        "id": 76,
-        "name": "Wolverhampton Wanderers FC",
-        "shortName": "Wolverhampton",
-        "tla": "WOL",
-        "crest": "https://crests.football-data.org/76.png"
+        "id": 1765,
+        "name": "Fluminense FC",
+        "shortName": "Fluminense",
+        "tla": "FLU",
+        "crest": "https://crests.football-data.org/1765.png"
       },
       "away": {
-        "id": 325,
-        "name": "Portsmouth FC",
-        "shortName": "Portsmouth",
-        "tla": "POR",
-        "crest": "https://crests.football-data.org/325.png"
+        "id": 6684,
+        "name": "SC Internacional",
+        "shortName": "Internacional",
+        "tla": "SCI",
+        "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": null,
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 1
+          "home": null,
+          "away": null
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
+          "home": null,
+          "away": null
         }
       },
-      "priority": 330,
-      "lastUpdated": "2026-10-20T20:45:50Z"
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555068,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-28T22:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 33,
+      "home": {
+        "id": 6685,
+        "name": "Santos FC",
+        "shortName": "Santos",
+        "tla": "SAN",
+        "crest": "https://crests.football-data.org/6685.png"
+      },
+      "away": {
+        "id": 1769,
+        "name": "SE Palmeiras",
+        "shortName": "Palmeiras",
+        "tla": "PAL",
+        "crest": "https://crests.football-data.org/1769.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555067,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-29T00:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 33,
+      "home": {
+        "id": 4287,
+        "name": "Clube do Remo",
+        "shortName": "Clube do Remo",
+        "tla": "CRE",
+        "crest": "https://crests.football-data.org/4287.png"
+      },
+      "away": {
+        "id": 1770,
+        "name": "Botafogo FR",
+        "shortName": "Botafogo",
+        "tla": "BOT",
+        "crest": "https://crests.football-data.org/1770.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555061,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-29T00:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 33,
+      "home": {
+        "id": 1777,
+        "name": "EC Bahia",
+        "shortName": "Bahia",
+        "tla": "BAH",
+        "crest": "https://crests.football-data.org/1777.png"
+      },
+      "away": {
+        "id": 1776,
+        "name": "São Paulo FC",
+        "shortName": "São Paulo",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/1776.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555060,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-29T22:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 33,
+      "home": {
+        "id": 1766,
+        "name": "CA Mineiro",
+        "shortName": "Mineiro",
+        "tla": "CAM",
+        "crest": "https://crests.football-data.org/1766.png"
+      },
+      "away": {
+        "id": 1771,
+        "name": "Cruzeiro EC",
+        "shortName": "Cruzeiro",
+        "tla": "CRU",
+        "crest": "https://crests.football-data.org/1771.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
+    },
+    {
+      "id": 555069,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-10-29T23:00:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 33,
+      "home": {
+        "id": 1780,
+        "name": "CR Vasco da Gama",
+        "shortName": "Vasco da Gama",
+        "tla": "VAS",
+        "crest": "https://crests.football-data.org/1780.png"
+      },
+      "away": {
+        "id": 1783,
+        "name": "CR Flamengo",
+        "shortName": "Flamengo",
+        "tla": "FLA",
+        "crest": "https://crests.football-data.org/1783.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-10-21T00:20:28Z"
     }
   ]
 }
