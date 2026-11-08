@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:14:06.925231+00:00",
+  "updatedAt": "2026-11-08T09:10:21.172491+00:00",
   "source": "football-data.org",
   "rateLimit": {
     "remainingThisMinute": "9"
@@ -1342,49 +1342,6 @@
       "lastUpdated": "2026-11-08T00:20:28Z"
     },
     {
-      "id": 559632,
-      "competition": {
-        "id": 2015,
-        "code": "FL1",
-        "name": "Ligue 1",
-        "emblem": "https://crests.football-data.org/FL1.png"
-      },
-      "utcDate": "2026-11-08T16:15:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 10,
-      "home": {
-        "id": 512,
-        "name": "Stade Brestois 29",
-        "shortName": "Brest",
-        "tla": "BRE",
-        "crest": "https://crests.football-data.org/512.png"
-      },
-      "away": {
-        "id": 523,
-        "name": "Olympique Lyonnais",
-        "shortName": "Olympique Lyon",
-        "tla": "LYO",
-        "crest": "https://crests.football-data.org/523.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 700,
-      "lastUpdated": "2026-11-08T01:32:01Z"
-    },
-    {
       "id": 559634,
       "competition": {
         "id": 2015,
@@ -1426,6 +1383,49 @@
       },
       "priority": 700,
       "lastUpdated": "2026-11-08T00:20:28Z"
+    },
+    {
+      "id": 559632,
+      "competition": {
+        "id": 2015,
+        "code": "FL1",
+        "name": "Ligue 1",
+        "emblem": "https://crests.football-data.org/FL1.png"
+      },
+      "utcDate": "2026-11-08T16:15:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 10,
+      "home": {
+        "id": 512,
+        "name": "Stade Brestois 29",
+        "shortName": "Brest",
+        "tla": "BRE",
+        "crest": "https://crests.football-data.org/512.png"
+      },
+      "away": {
+        "id": 523,
+        "name": "Olympique Lyonnais",
+        "shortName": "Olympique Lyon",
+        "tla": "LYO",
+        "crest": "https://crests.football-data.org/523.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 700,
+      "lastUpdated": "2026-11-08T01:32:01Z"
     },
     {
       "id": 559630,
