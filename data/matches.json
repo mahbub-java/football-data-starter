@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T03:44:35.347061+00:00",
+  "updatedAt": "2026-11-10T11:51:31.903410+00:00",
   "source": "football-data.org",
   "rateLimit": {
     "remainingThisMinute": "9"
@@ -179,49 +179,6 @@
       "lastUpdated": "2026-11-10T00:20:18Z"
     },
     {
-      "id": 555082,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-11-18T23:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 35,
-      "home": {
-        "id": 1771,
-        "name": "Cruzeiro EC",
-        "shortName": "Cruzeiro",
-        "tla": "CRU",
-        "crest": "https://crests.football-data.org/1771.png"
-      },
-      "away": {
-        "id": 1769,
-        "name": "SE Palmeiras",
-        "shortName": "Palmeiras",
-        "tla": "PAL",
-        "crest": "https://crests.football-data.org/1769.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-11-10T00:20:18Z"
-    },
-    {
       "id": 555083,
       "competition": {
         "id": 2013,
@@ -248,6 +205,49 @@
         "shortName": "Paranaense",
         "tla": "CAP",
         "crest": "https://crests.football-data.org/1768.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-11-10T00:20:18Z"
+    },
+    {
+      "id": 555082,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-11-18T23:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 35,
+      "home": {
+        "id": 1771,
+        "name": "Cruzeiro EC",
+        "shortName": "Cruzeiro",
+        "tla": "CRU",
+        "crest": "https://crests.football-data.org/1771.png"
+      },
+      "away": {
+        "id": 1769,
+        "name": "SE Palmeiras",
+        "shortName": "Palmeiras",
+        "tla": "PAL",
+        "crest": "https://crests.football-data.org/1769.png"
       },
       "score": {
         "winner": null,
@@ -439,49 +439,6 @@
       "lastUpdated": "2026-11-10T00:20:18Z"
     },
     {
-      "id": 555082,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-11-18T23:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 35,
-      "home": {
-        "id": 1771,
-        "name": "Cruzeiro EC",
-        "shortName": "Cruzeiro",
-        "tla": "CRU",
-        "crest": "https://crests.football-data.org/1771.png"
-      },
-      "away": {
-        "id": 1769,
-        "name": "SE Palmeiras",
-        "shortName": "Palmeiras",
-        "tla": "PAL",
-        "crest": "https://crests.football-data.org/1769.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-11-10T00:20:18Z"
-    },
-    {
       "id": 555083,
       "competition": {
         "id": 2013,
@@ -508,6 +465,49 @@
         "shortName": "Paranaense",
         "tla": "CAP",
         "crest": "https://crests.football-data.org/1768.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-11-10T00:20:18Z"
+    },
+    {
+      "id": 555082,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-11-18T23:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 35,
+      "home": {
+        "id": 1771,
+        "name": "Cruzeiro EC",
+        "shortName": "Cruzeiro",
+        "tla": "CRU",
+        "crest": "https://crests.football-data.org/1771.png"
+      },
+      "away": {
+        "id": 1769,
+        "name": "SE Palmeiras",
+        "shortName": "Palmeiras",
+        "tla": "PAL",
+        "crest": "https://crests.football-data.org/1769.png"
       },
       "score": {
         "winner": null,
