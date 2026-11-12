@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T01:53:13.869278+00:00",
+  "updatedAt": "2026-11-12T09:29:31.362342+00:00",
   "source": "football-data.org",
   "rateLimit": {
     "remainingThisMinute": "9"
@@ -308,49 +308,6 @@
       "lastUpdated": "2026-11-12T01:32:01Z"
     },
     {
-      "id": 555083,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-11-18T23:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 35,
-      "home": {
-        "id": 1783,
-        "name": "CR Flamengo",
-        "shortName": "Flamengo",
-        "tla": "FLA",
-        "crest": "https://crests.football-data.org/1783.png"
-      },
-      "away": {
-        "id": 1768,
-        "name": "CA Paranaense",
-        "shortName": "Paranaense",
-        "tla": "CAP",
-        "crest": "https://crests.football-data.org/1768.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-11-12T01:32:01Z"
-    },
-    {
       "id": 555082,
       "competition": {
         "id": 2013,
@@ -394,7 +351,50 @@
       "lastUpdated": "2026-11-12T01:32:01Z"
     },
     {
-      "id": 555084,
+      "id": 555083,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-11-18T23:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 35,
+      "home": {
+        "id": 1783,
+        "name": "CR Flamengo",
+        "shortName": "Flamengo",
+        "tla": "FLA",
+        "crest": "https://crests.football-data.org/1783.png"
+      },
+      "away": {
+        "id": 1768,
+        "name": "CA Paranaense",
+        "shortName": "Paranaense",
+        "tla": "CAP",
+        "crest": "https://crests.football-data.org/1768.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-11-12T01:32:01Z"
+    },
+    {
+      "id": 555080,
       "competition": {
         "id": 2013,
         "code": "BSA",
@@ -408,18 +408,18 @@
       "stage": "REGULAR_SEASON",
       "matchday": 35,
       "home": {
-        "id": 1767,
-        "name": "Grêmio FBPA",
-        "shortName": "Grêmio",
-        "tla": "FBP",
-        "crest": "https://crests.football-data.org/1767.png"
+        "id": 1779,
+        "name": "SC Corinthians Paulista",
+        "shortName": "Corinthians",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/1779.png"
       },
       "away": {
-        "id": 1777,
-        "name": "EC Bahia",
-        "shortName": "Bahia",
-        "tla": "BAH",
-        "crest": "https://crests.football-data.org/1777.png"
+        "id": 1770,
+        "name": "Botafogo FR",
+        "shortName": "Botafogo",
+        "tla": "BOT",
+        "crest": "https://crests.football-data.org/1770.png"
       },
       "score": {
         "winner": null,
@@ -740,49 +740,6 @@
       "lastUpdated": "2026-11-12T01:32:01Z"
     },
     {
-      "id": 555083,
-      "competition": {
-        "id": 2013,
-        "code": "BSA",
-        "name": "Campeonato Brasileiro Série A",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "utcDate": "2026-11-18T23:30:00Z",
-      "status": "TIMED",
-      "minute": null,
-      "injuryTime": null,
-      "stage": "REGULAR_SEASON",
-      "matchday": 35,
-      "home": {
-        "id": 1783,
-        "name": "CR Flamengo",
-        "shortName": "Flamengo",
-        "tla": "FLA",
-        "crest": "https://crests.football-data.org/1783.png"
-      },
-      "away": {
-        "id": 1768,
-        "name": "CA Paranaense",
-        "shortName": "Paranaense",
-        "tla": "CAP",
-        "crest": "https://crests.football-data.org/1768.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "priority": 630,
-      "lastUpdated": "2026-11-12T01:32:01Z"
-    },
-    {
       "id": 555082,
       "competition": {
         "id": 2013,
@@ -826,32 +783,32 @@
       "lastUpdated": "2026-11-12T01:32:01Z"
     },
     {
-      "id": 555084,
+      "id": 555083,
       "competition": {
         "id": 2013,
         "code": "BSA",
         "name": "Campeonato Brasileiro Série A",
         "emblem": "https://crests.football-data.org/bsa.png"
       },
-      "utcDate": "2026-11-19T00:30:00Z",
+      "utcDate": "2026-11-18T23:30:00Z",
       "status": "TIMED",
       "minute": null,
       "injuryTime": null,
       "stage": "REGULAR_SEASON",
       "matchday": 35,
       "home": {
-        "id": 1767,
-        "name": "Grêmio FBPA",
-        "shortName": "Grêmio",
-        "tla": "FBP",
-        "crest": "https://crests.football-data.org/1767.png"
+        "id": 1783,
+        "name": "CR Flamengo",
+        "shortName": "Flamengo",
+        "tla": "FLA",
+        "crest": "https://crests.football-data.org/1783.png"
       },
       "away": {
-        "id": 1777,
-        "name": "EC Bahia",
-        "shortName": "Bahia",
-        "tla": "BAH",
-        "crest": "https://crests.football-data.org/1777.png"
+        "id": 1768,
+        "name": "CA Paranaense",
+        "shortName": "Paranaense",
+        "tla": "CAP",
+        "crest": "https://crests.football-data.org/1768.png"
       },
       "score": {
         "winner": null,
@@ -912,32 +869,32 @@
       "lastUpdated": "2026-11-12T01:32:01Z"
     },
     {
-      "id": 555089,
+      "id": 555084,
       "competition": {
         "id": 2013,
         "code": "BSA",
         "name": "Campeonato Brasileiro Série A",
         "emblem": "https://crests.football-data.org/bsa.png"
       },
-      "utcDate": "2026-11-19T22:30:00Z",
+      "utcDate": "2026-11-19T00:30:00Z",
       "status": "TIMED",
       "minute": null,
       "injuryTime": null,
       "stage": "REGULAR_SEASON",
       "matchday": 35,
       "home": {
-        "id": 1782,
-        "name": "EC Vitória",
-        "shortName": "Vitória",
-        "tla": "VIT",
-        "crest": "https://crests.football-data.org/1782.png"
+        "id": 1767,
+        "name": "Grêmio FBPA",
+        "shortName": "Grêmio",
+        "tla": "FBP",
+        "crest": "https://crests.football-data.org/1767.png"
       },
       "away": {
-        "id": 4286,
-        "name": "RB Bragantino",
-        "shortName": "Bragantino",
-        "tla": "RBB",
-        "crest": "https://crests.football-data.org/4286.png"
+        "id": 1777,
+        "name": "EC Bahia",
+        "shortName": "Bahia",
+        "tla": "BAH",
+        "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
         "winner": null,
@@ -952,7 +909,7 @@
         }
       },
       "priority": 630,
-      "lastUpdated": "2026-11-12T00:20:29Z"
+      "lastUpdated": "2026-11-12T01:32:01Z"
     },
     {
       "id": 555088,
@@ -981,6 +938,49 @@
         "shortName": "Internacional",
         "tla": "SCI",
         "crest": "https://crests.football-data.org/6684.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "priority": 630,
+      "lastUpdated": "2026-11-12T00:20:29Z"
+    },
+    {
+      "id": 555089,
+      "competition": {
+        "id": 2013,
+        "code": "BSA",
+        "name": "Campeonato Brasileiro Série A",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "utcDate": "2026-11-19T22:30:00Z",
+      "status": "TIMED",
+      "minute": null,
+      "injuryTime": null,
+      "stage": "REGULAR_SEASON",
+      "matchday": 35,
+      "home": {
+        "id": 1782,
+        "name": "EC Vitória",
+        "shortName": "Vitória",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/1782.png"
+      },
+      "away": {
+        "id": 4286,
+        "name": "RB Bragantino",
+        "shortName": "Bragantino",
+        "tla": "RBB",
+        "crest": "https://crests.football-data.org/4286.png"
       },
       "score": {
         "winner": null,
